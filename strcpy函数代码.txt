@@ -4,3 +4,6 @@ char* strcpy(char *strDest, const char *strSrc){
       while( (*strDest++ = *strSrc++) != '\0' );   
       return address;
 }
+/**
+远程edit
+**/
